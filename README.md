@@ -1,4 +1,4 @@
-1. Crear base de datos "bdflujoefectivo" con cotejamiento utf8_spanish_ci
+1. Crear base de datos en MariaDB con el nombre de "bdflujoefectivo" y con cotejamiento utf8_spanish_ci
 
 2. Importar el archivo bdflujoefectivo.sql dentro de la base de datos que se creo con anterioridad
 
